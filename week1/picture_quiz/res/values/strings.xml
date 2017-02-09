@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Picture quiz</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Content main -->
+    <string name="cm_b_complete">Next</string>
+    <string-array name="description_text">
+        <item>Giraffe</item>
+        <item>Frog</item>
+        <item>Monkey</item>
+    </string-array>
+</resources>
