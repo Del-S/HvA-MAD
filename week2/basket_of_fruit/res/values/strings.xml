@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basket of Fruit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- New item activity -->
+    <string name="nia_label">Enter item info</string>
+    <string name="nia_title">Title</string>
+    <string name="nia_description">Description</string>
+    <string name="nia_icon">Icon</string>
+    <string name="nia_add_button">Add item</string>
+</resources>
