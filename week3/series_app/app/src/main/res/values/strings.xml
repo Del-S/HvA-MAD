@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Series App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete_all">Delete all</string>
+
+    <!-- Content Series list item -->
+    <string name="lis_name">Name</string>
+    <string name="lis_subject">Subject</string>
+    <string name="lis_finished">Not finished</string>
+
+    <!-- Activity Series ** -->
+    <string name="as_label_name">Name</string>
+    <string name="as_name">Name of series</string>
+    <string name="as_label_description">Description</string>
+    <string name="as_description">Description of series</string>
+    <string name="as_ld_label_startDate">Start Date</string>
+    <string name="as_ld_startDate">No start date</string>
+    <string name="as_ld_label_endDate">End Date</string>
+    <string name="as_ld_endDate">No finish date</string>
+    <string name="as_finished">Finished?</string>
+
+    <!-- Activity Series Detail -->
+    <string name="asd_saveSeries">Update series</string>
+
+    <!-- Activity Series Add -->
+    <string name="asa_saveSeries">Add series</string>
+
+</resources>

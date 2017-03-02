@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="16dp">
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:id="@+id/lis_check_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:clickable="false" />
+
+    <TextView
+        android:id="@+id/lis_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lis_name" />
+
+    <TextView
+        android:id="@+id/lis_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lis_name"
+        android:layout_marginTop="8dp"
+        android:text="@string/lis_subject" />
+
+    <TextView
+        android:id="@+id/lis_finished"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@id/lis_check_box"
+        android:text="@string/lis_finished" />
+
+</RelativeLayout>
