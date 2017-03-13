@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="recipe_detail_title">Recipe detail</string>
+
+    <string name="sri_title">Recipe title</string>
+    <string name="sri_description">Recipe description</string>
+</resources>
